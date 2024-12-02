@@ -1,0 +1,72 @@
+{
+  "roasts": [
+    {
+      "name": "Samuel",
+      "roast": {
+        "light": {
+          "pre": "I'm feeling good today so I'm going to compliment you!",
+          "roast": "Your mom is so fat, that even Dora couldn't explore her."
+        },
+        "medium": {
+          "pre": "Okay I was joking. I want to give you some roast. Hahaha. Okay this time it's a compliment :)",
+          "roast": "You're so slow, even a tortoise would say, 'Hurry up!'"
+        },
+        "burnt": {
+          "pre": "Okay this time I'm totally going to compliment you okay? Trust me, we're friends right? Okay, here goes...",
+          "roast": "You look nice today! Who dressed you? The GREAT DEPRESSION?"
+        }
+      }
+    },
+    {
+      "name": "Aliyah",
+      "roast": {
+        "light": {
+          "pre": "I thought about it, and you deserve a kind word.",
+          "roast": "You're like a cloud. When you disappear, it's a beautiful day."
+        },
+        "medium": {
+          "pre": "You know I care about you, right? Just listen to this...",
+          "roast": "You're the type of person who claps when the plane lands."
+        },
+        "burnt": {
+          "pre": "Let me be kind just once, I promise.",
+          "roast": "You're so slow, even a tortoise would say, 'Hurry up!'"
+        }
+      }
+    },
+    {
+      "name": "Daniel",
+      "roast": {
+        "light": {
+          "pre": "Hey buddy, I want to make your day brighter.",
+          "roast": "You're unique... just like everyone else."
+        },
+        "medium": {
+          "pre": "I’ve got something really interesting to share with you!",
+          "roast": "Your secrets are safe with me. I never even listen when you tell me them."
+        },
+        "burnt": {
+          "pre": "This will be the nicest thing you've heard today.",
+          "roast": "You're like a software bug—nobody wants you, but you're always there."
+        }
+      }
+    },
+    {
+      "name": "Nina",
+      "roast": {
+        "light": {
+          "pre": "You're doing great, and I just had to tell you that.",
+          "roast": "You're proof that even ugly people can find friends."
+        },
+        "medium": {
+          "pre": "I was going to roast you, but I’ll be gentle this time.",
+          "roast": "You're like a cloud of smoke—confusing and bad for the environment."
+        },
+        "burnt": {
+          "pre": "Okay, seriously, I promise this one is good.",
+          "roast": "You bring everyone so much joy… when you leave the room."
+        }
+      }
+    }
+  ]
+}
